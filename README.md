@@ -27,6 +27,7 @@ Things to be automated are:
   <li>connections with databases</li>
   <li>field validations and</li> 
   <li>many-more can be efficiently tested automatically rather than manually</li>
+</ul>
 
 ### Different Software testing tools Available in Automation Testing:
 These are some tools which can be helpful in Automation testing:
@@ -42,3 +43,6 @@ These are some tools which can be helpful in Automation testing:
   <li>LaodRunner</li>
   <li>SilkTest</li>
 </ul>
+
+
+
