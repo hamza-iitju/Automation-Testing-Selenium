@@ -73,6 +73,7 @@ At the moment, Selenium RC and WebDriver are merged into a single framework to f
 <li>To create simple test cases and test suites that you can export later to RC or WebDriver.</li>
 <li>To test a web application against Firefox only.</li>
 </ul>
+
 #### Selenium RC
 <ul>
 <li>To design a test using a more expressive language than Selenese</li>
@@ -81,6 +82,7 @@ At the moment, Selenium RC and WebDriver are merged into a single framework to f
 <li>To test your application against a new browser that supports JavaScript.</li>
 <li>To test web applications with complex AJAX-based scenarios.</li>
 </ul>
+
 #### WebDriver
 <ul>
 <li>To use a certain programming language in designing your test case.</li>
@@ -88,6 +90,7 @@ At the moment, Selenium RC and WebDriver are merged into a single framework to f
 <li>To execute tests on the HtmlUnit browser.</li>
 <li>To create customized test results.</li>
 </ul>
+
 #### Selenium Grid
 <ul>
 <li>To run your Selenium RC scripts in multiple browsers and operating systems simultaneously.</li>
