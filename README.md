@@ -27,23 +27,15 @@ Things to be automated are:
 
 ## Different Software testing tools Available in Automation Testing:
 These are some tools which can be helpful in Automation testing:
-  
-  -HP Quick Test Professional
-  
-  -Selenium
-  
-  -Visual Studio Test Professional
-  
-  -WATIR
-  
-  -IBM Rational Functional Tester
-  
-  -TestComplete
-  
-  -Testing Anywhere
-  
-  -WinRunner
-  
-  -LaodRunner
-  
-  -SilkTest
+<ul>
+  <li>HP Quick Test Professional</li>
+  <li>Selenium</li>
+  <li>Visual Studio Test Professional</li>
+  <li>WATIR</li>
+  <li>IBM Rational Functional Tester</li>
+  <li>TestComplete</li>
+  <li>Testing Anywhere</li>
+  <li>WinRunner</li>
+  <li>LaodRunner</li>
+  <li>SilkTest</li>
+</ul>
