@@ -55,7 +55,7 @@ Selenium is not just a single tool but a suite of software's, each catering to d
 <li>Selenium Remote Control (RC)</li>
 <li>WebDriver</li>
 <li>Selenium Grid</li>
-<ul>
+</ul>
 
 At the moment, Selenium RC and WebDriver are merged into a single framework to form Selenium 2. Selenium 1, by the way, refers to Selenium RC. 
 
@@ -80,7 +80,7 @@ At the moment, Selenium RC and WebDriver are merged into a single framework to f
 <li>To deploy your tests across multiple environments using Selenium Grid.</li>
 <li>To test your application against a new browser that supports JavaScript.</li>
 <li>To test web applications with complex AJAX-based scenarios.</li>
-<ul>
+</ul>
 #### WebDriver
 <ul>
 <li>To use a certain programming language in designing your test case.</li>
