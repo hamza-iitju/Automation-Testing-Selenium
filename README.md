@@ -10,23 +10,40 @@ The main goal of Automation testing is to increase the test efficiency and devel
 
 ## What kinds of functions to automate using Automation testing tools:
 Things to be automated are: 
+
   -login forms
+
   -registration forms
+  
   -the place where numbers of users access the Software simultaneously can be automated. 
+  
   -all GUI items
+  
   -connections with databases
+  
   -field validations and 
+  
   -many-more can be efficiently tested automatically rather than manually.
 
 ## Different Software testing tools Available in Automation Testing:
 These are some tools which can be helpful in Automation testing:
+  
   -HP Quick Test Professional
+  
   -Selenium
+  
   -Visual Studio Test Professional
+  
   -WATIR
+  
   -IBM Rational Functional Tester
+  
   -TestComplete
+  
   -Testing Anywhere
+  
   -WinRunner
+  
   -LaodRunner
+  
   -SilkTest
