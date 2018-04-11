@@ -62,13 +62,13 @@ At the moment, Selenium RC and WebDriver are merged into a single framework to f
 ### How to Choose the Right Selenium Tool for Your Need?
 #### Selenium IDE
 <ul>
-<li>To learn about concepts on automated testing and Selenium, including:<li>
+<li>To learn about concepts on automated testing and Selenium, including:
   <ul>
     <li>Selenese commands such as type, open, clickAndWait, assert, verify, etc.</li>
     <li>Locators such as id, name, xpath, css selector, etc.</li>
     <li>Executing customized JavaScript code using runScript</li>
     <li>Exporting test cases in various formats.</li>
-  </ul>
+  </ul><li>
 <li>To create tests with little or no prior knowledge in programming.</li>
 <li>To create simple test cases and test suites that you can export later to RC or WebDriver.</li>
 <li>To test a web application against Firefox only.</li>
