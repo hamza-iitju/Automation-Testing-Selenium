@@ -96,3 +96,65 @@ At the moment, Selenium RC and WebDriver are merged into a single framework to f
 <li>To run your Selenium RC scripts in multiple browsers and operating systems simultaneously.</li>
 <li>To run a huge test suite, that needs to complete in the soonest time possible.</li>
 </ul>
+
+## How to Download & Install Selenium IDE for Firefox?
+### Installation of Selenium IDE
+#### What you need
+<ul>
+<li>Mozilla Firefox</li>
+<<li>>Active Internet Connection</li>
+</ul>
+
+Selenium IDE Works with all major versions, but It is recommend to use 47.0.1 & above as they have better stability.
+Selenium IDE is no longer compatible with Firefox 55 and above. 
+
+#### Steps 1)
+Launch Firefox and navigate to https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/. Click on Add to Firefox
+
+#### Steps 2)
+Wait until Firefox completes the download and then click "Install."
+
+#### Steps 3)
+Wait until the installation is completed. In the pop-up window, click "Restart Now."
+
+#### Steps 4)
+After Firefox has restarted, launch Selenium IDE using either of two ways:
+<ul>
+<li>By pressing Ctrl+Alt+S</li>
+<li>By clicking on the Firefox menu button > Developer > Selenium IDE</li>
+
+#### Steps 5)
+Selenium IDE launch
+
+### Installation of Firebug
+Firebug is a Firefox add-on that we will use to inspect the HTML elements of the web application under test. It will provide us the name of the element that our Selenese command would act upon.
+
+#### Step 1
+Use Firefox to navigate to Firebug's download page ( https://addons.mozilla.org/en-US/firefox/addon/firebug/)
+
+#### Step 2
+Wait for Firefox to complete downloading this add-on. On the dialog box that comes after, click "Install Now."
+
+#### Step 3
+Wait for the installation to complete. A notification will pop-up saying, "Firebug has been installed successfully." You can immediately close this pop-up.
+<strong>Note:</strong> In case if you do not see above pop-up, no worries! This pop-up appears for a few seconds and disappears.
+You do not need to restart Firefox after installing Firebug.
+
+#### Step 4
+Launch Firebug by doing either of these two methods:
+<ul>
+<li>Press F12</li>
+<li>Click on the Firebug button in the upper right corner of the Firefox window.</li>
+
+#### Step 5
+Firebug should launch at the bottom of Firefox.
+<strong>Note:</strong> Firebug Extension is no longer under development and is deprecated as mentioned on firebug's site
+
+It is Recommended using Firefox DevTools
+
+You can access Firefox DevTools by using following steps
+<ul>
+<li>Open Firefox</li>
+<li>Press Ctrl + Shift + "I"</li>
+
+<strong>Note:<strong> Advantage of using Firebug over DevTools is that, in FireBug, you can directly copy the XPath of a WebElement to be used in Selenium.
