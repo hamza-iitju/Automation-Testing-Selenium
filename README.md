@@ -102,7 +102,7 @@ At the moment, Selenium RC and WebDriver are merged into a single framework to f
 #### What you need
 <ul>
 <li>Mozilla Firefox</li>
-<<li>>Active Internet Connection</li>
+<li>Active Internet Connection</li>
 </ul>
 
 Selenium IDE Works with all major versions, but It is recommend to use 47.0.1 & above as they have better stability.
@@ -122,6 +122,7 @@ After Firefox has restarted, launch Selenium IDE using either of two ways:
 <ul>
 <li>By pressing Ctrl+Alt+S</li>
 <li>By clicking on the Firefox menu button > Developer > Selenium IDE</li>
+</ul>
 
 #### Steps 5)
 Selenium IDE launch
@@ -145,6 +146,7 @@ Launch Firebug by doing either of these two methods:
 <ul>
 <li>Press F12</li>
 <li>Click on the Firebug button in the upper right corner of the Firefox window.</li>
+</ul>
 
 #### Step 5
 Firebug should launch at the bottom of Firefox.
@@ -156,5 +158,6 @@ You can access Firefox DevTools by using following steps
 <ul>
 <li>Open Firefox</li>
 <li>Press Ctrl + Shift + "I"</li>
+</ul>
 
 <strong>Note:<strong> Advantage of using Firebug over DevTools is that, in FireBug, you can directly copy the XPath of a WebElement to be used in Selenium.
