@@ -138,6 +138,7 @@ Wait for Firefox to complete downloading this add-on. On the dialog box that com
 
 #### Step 3
 Wait for the installation to complete. A notification will pop-up saying, "Firebug has been installed successfully." You can immediately close this pop-up.
+
 <strong>Note:</strong> In case if you do not see above pop-up, no worries! This pop-up appears for a few seconds and disappears.
 You do not need to restart Firefox after installing Firebug.
 
